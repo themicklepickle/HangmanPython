@@ -39,6 +39,7 @@ while again == "y":
     turtle.pendown()
     turtle.setpos(-150, -200)
 
+
     # Functions
     def letterCorrect(x, xLetter):
         global newNumberCorrect
